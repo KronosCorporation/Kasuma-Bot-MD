@@ -62,8 +62,8 @@ global.wagit = 'https://github.com/KronosCorporation/KasumaBot-MD'
 global.wayt = 'https://youtube.com/@by_traxnox'
 global.wapyp = 'https://paypal.me/txpaying?country.x=CO&locale.x=es_XC'
 
-global.fglog = 'https://i.imgur.com/mWHCPIe.jpg'
-global.numero = ['593995668111']
+global.fglog = 'https://imgur.com/a/Tg9HtId.jpg'
+global.numero = ['527226635082']
 global.wait = 'Cargando'
 global.rwait = '⌛'
 global.dmoji = '🤭'
