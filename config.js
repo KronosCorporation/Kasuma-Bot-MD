@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593995668111', 'Guillermo', true],
-  ['573014953662', 'Sebastian', false],
+  ['595975701824', '❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞', true],
+  ['595975701824', '❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞', false],
 ] //Numeros de owner 
 
 global.mods = ['']
@@ -54,11 +54,11 @@ global.apiconversion = ["https://api.exchangerate-api.com"]
 global.conversiondocs = ["https://www.easymarkets.com/int/es/learn-centre/discover-trading/currency-acronyms-and-abbreviations/"]
 
 // Sticker WM
-global.packname = 'Kasuma-Bot'
-global.author = 'Kasuma-Bot 2.0'
-global.waig = 'Sígueme en Instagram\nhttps://www.instagram.com/traxnox/\n'
-global.wagp = 'https://chat.whatsapp.com/HvbqkYZlJzYLhczPhDteMt'
-global.wagit = 'https://github.com/ByTraxnox-X/KasumaBot-MD'
+global.packname = 'Asmodeus-Bot'
+global.author = 'Asmodeus-Bot 2.0'
+global.waig = 'Sígueme en Instagram\nhttps://www.instagram.com/eleng.s_/\n'
+global.wagp = 'https://chat.whatsapp.com/DD6ObSTBgDlLhpcjP1zq0C'
+global.wagit = 'https://github.com/KronosCorporation/KasumaBot-MD'
 global.wayt = 'https://youtube.com/@by_traxnox'
 global.wapyp = 'https://paypal.me/txpaying?country.x=CO&locale.x=es_XC'
 
