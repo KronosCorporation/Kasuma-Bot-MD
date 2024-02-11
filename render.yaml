@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: KasumaBot 
+    name: AsmodeusBot 
     env: docker
     region: Oregon
     plan: free
